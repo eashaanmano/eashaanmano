@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Eashaan Manohar ASCII banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Eashaan Manohar ASCII banner" width="100%">
 </picture>
 
 <a href="https://eashaan.runs-on.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=B87A0A&width=720&lines=M.Tech+CSE+%40+NIT+Calicut%2C+previously+BNY;I+build+systems+that+keep+working+when+machines+fail;...and+AI+that+holds+up+in+production;Try+crashing+my+Raft+cluster+at+eashaan.runs-on.dev" alt="Typing intro"></a>
