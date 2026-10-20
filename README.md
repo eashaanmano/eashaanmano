@@ -18,7 +18,7 @@ My portfolio lives at **[eashaan.runs-on.dev](https://eashaan.runs-on.dev)** —
 * 💳 Building **LedgerFlow**, a Stripe-style double-entry payments ledger with idempotent transfers and signed webhooks *(in progress)*
 * ⚡ Building **OrderBook**, a lock-free C++20 matching engine replayed on 10M Binance L2 events *(in progress)*
 * 🏦 At BNY: LLM root-cause analysis that cut incident triage **80%**, a GPT-4o change-request pipeline that cut manual effort **70%**, and a 5-agent hallucination checker
-* 📚 12 conference papers (IEEE, Springer, Elsevier), 12 book chapters, and a design patent — [Google Scholar](https://scholar.google.com/citations?user=rUhwY-UAAAAJ&hl=en)
+* 📚 17 Scopus-indexed publications (53 citations, h-index 5), 19 on [Google Scholar](https://scholar.google.com/citations?user=rUhwY-UAAAAJ&hl=en), and a design patent
 * 🏆 Best Paper (ICCCNet Manchester 2023), BNY HackAIThon winner 2025, Best Outgoing Student (CSE, rank 3 of 362)
 * 🧑‍🏫 Former Stanford Code in Place section leader; co-founded student tech communities that grew to ~1,250 members
 * 🎯 Looking for **SDE** and **AI/ML** roles, and always up for a research collaboration
