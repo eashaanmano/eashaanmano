@@ -14,14 +14,28 @@ My portfolio lives at **[eashaan.runs-on.dev](https://eashaan.runs-on.dev)** —
 
 ## About me
 
-* 🧩 Building **[RaftKV](https://github.com/eashaanmano/raftkv)**, a Raft-based distributed key-value store in Go — 50K+ writes/s, p99 &lt; 20 ms, failover &lt; 1.5 s
-* 💳 Building **LedgerFlow**, a Stripe-style double-entry payments ledger with idempotent transfers and signed webhooks *(in progress)*
-* ⚡ Building **OrderBook**, a lock-free C++20 matching engine replayed on 10M Binance L2 events *(in progress)*
-* 🏦 At BNY: LLM root-cause analysis that cut incident triage **80%**, a GPT-4o change-request pipeline that cut manual effort **70%**, and a 5-agent hallucination checker
-* 📚 17 Scopus-indexed publications (53 citations, h-index 5), 19 on [Google Scholar](https://scholar.google.com/citations?user=rUhwY-UAAAAJ&hl=en), and a design patent
-* 🏆 Best Paper (ICCCNet Manchester 2023), BNY HackAIThon winner 2025, Best Outgoing Student (CSE, rank 3 of 362)
-* 🧑‍🏫 Former Stanford Code in Place section leader; co-founded student tech communities that grew to ~1,250 members
-* 🎯 Looking for **SDE** and **AI/ML** roles, and always up for a research collaboration
+I sit somewhere between research and production. I've written papers on medical imaging and NLP, and
+I've shipped LLM tooling inside a bank where a wrong answer has a real cost. Both taught me the same
+thing: a result only counts once it survives contact with the real world.
+
+That's why I keep gravitating to the unglamorous layers — consensus, ledgers, schedulers, inference
+runtimes — the parts that have to be correct before they get to be clever. I learn by building the
+thing from scratch, measuring it honestly, and then trying to break it.
+
+I also like explaining things. Leading a section for Stanford's Code in Place and helping grow student
+tech communities taught me that if I can't explain a system simply, I don't understand it yet.
+
+Right now I'm deep in my M.Tech, building systems projects in Go and C++, and open to **SDE** and
+**AI/ML** roles — and always up for a research collaboration.
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eashaanmano/eashaanmano/output/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/eashaanmano/eashaanmano/output/contributions-light.svg" alt="Eashaan's GitHub contribution graph" width="100%">
+</picture>
+
+<sub>Regenerated daily from my GitHub contribution calendar.</sub>
 
 ## Tech stack
 
@@ -45,6 +59,8 @@ My portfolio lives at **[eashaan.runs-on.dev](https://eashaan.runs-on.dev)** —
 <sub>The full toolkit, including what I'm still learning, is a terminal you can type into on <a href="https://eashaan.runs-on.dev/#skills">my site</a>.</sub>
 
 ## Research
+
+17 Scopus-indexed publications (53 citations, h-index 5), 19 on [Google Scholar](https://scholar.google.com/citations?user=rUhwY-UAAAAJ&hl=en), and a design patent.
 
 * **Image Captioning for Movie Subtitling using Neural Networks and LSTM** — ICCCNet 2023, Springer · *Best Paper, AI/ML*
 * **Liver Tumor Segmentation from CT Scans using TransUNet** — ICoICI 2024, IEEE

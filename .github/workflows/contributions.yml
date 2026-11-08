@@ -1,0 +1,33 @@
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate contribution graph SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contributions-light.svg?color_snake=#B87A0A&color_dots=#ebedf0,#f5dfb0,#e3b45c,#c98f1c,#8a5a05
+            dist/contributions-dark.svg?palette=github-dark&color_snake=#f0b43a&color_dots=#161b22,#4a3410,#7a5410,#B87A0A,#f0b43a
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
