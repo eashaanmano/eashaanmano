@@ -67,7 +67,6 @@ Right now I'm deep in my M.Tech, building systems projects in Go and C++, and op
 * 📚 17 Scopus-indexed publications (53 citations, h-index 5), 19 on [Google Scholar](https://scholar.google.com/citations?user=rUhwY-UAAAAJ&hl=en), and a design patent
 * 🏆 Best Paper (ICCCNet Manchester 2023), BNY HackAIThon winner 2025, Best Outgoing Student (CSE, rank 3 of 362)
 * 🧑‍🏫 Former Stanford Code in Place section leader; co-founded student tech communities that grew to ~1,250 members
-* 🎯 Looking for **SDE** and **AI/ML** roles, and always up for a research collaboration
 
 ## Research
 
